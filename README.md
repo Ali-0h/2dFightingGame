@@ -236,5 +236,21 @@ Slash1		| If Attack 1
 Slash2		| If Attack 2 
 Slash3 + Slash1	| If Combo Attack [Frame 2 and Frame 77]
 
+Type: Map
+This is where the Files of the map and the where the platform should be idk how the object will work as a platform, but in my previous experience is that ive used the object properties as a reference to make the rectangle but in this case i used a polygon..But in thj
+File Name | Purpose
+Map1Tiled.tmj			|Map1 tmj file
+Map1Tiled.png			|Map1 png File
+Map1PlaformandSpawnPoint.tmj	|Map1SpawnPoint and where the player should spawn
+					\\map1 background is on the res folder of map1 File name [1.png] -> [3.png] its a layer png of clouds(Blue) sky bg and clouds(White)
+Map2Tiled.tmj			|Map2 tmj file
+maptiled2.pmg			|Map2 png File
+Map2PlatformSpawnPoint.tmj	|Map2SpawnPoint and where the player should spawn
+Map3Tiled.tmj			|Map3 tmj file
+Map3Tiled.png			|Map3 png File
+Map3PlatformSpawnPoint		|Map3SpawnPoint and where the player should spawn
+
+
+
 
 
