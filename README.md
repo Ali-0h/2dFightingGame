@@ -13,6 +13,7 @@ A 2player game, Sprites has been provided within the folder [res] it contain mos
 8.If no one died at the last round, the player with tthe most health Wins 
 9.If no one reached 3 wins the player that has the most roundwins Wins. 
 10.Each round has 1.5 munites to play with.
+11.The game can run either in Fullscreen or it will adjust itself in the resolution of the user of the user.
 
 / / Game Controls:
 1. Player 1 
@@ -180,6 +181,7 @@ A 2player game, Sprites has been provided within the folder [res] it contain mos
 -->The health of the player is displayed at the bottom of the character in textual visual ;like just "100%".
 --> If a round finishes determine who won the round And tells who wob and add ups the score 
 --> IF A game wins The player will be zoomed in and says Player Win or smt.
+-->have a toggle whether Fullscreen or windowed.
 
 / / Gravity 
 1. The Gravity logic applies to the player 
