@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="85" height="49" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="11">
+ <tileset firstgid="1" source="../MAPSPLATFORM.tsx"/>
+ <objectgroup id="2" name="Rectangle/Objects">
+  <object id="3" x="79" y="532">
+   <polygon points="0,0 1,28 65,44 65,28 145,28 241,76 833,76 929,28 1025,28 1025,-68 1041,-68 1041,-84 1105,-116 1105,-148 1041,-196 1041,-292 1025,-308 1025,-324 993,-340 993,-356 961,-372 833,-372 817,-356 721,-356 721,-324 561,-324 545,-324 545,-292 497,-260 465,-260 449,-276 449,-292 497,-292 529,-308 529,-324 513,-324 497,-340 497,-356 481,-372 433,-372 433,-356 385,-324 225,-324 225,-308 209,-308 209,-276 113,-180 113,-164 81,-148 81,-68 17,-36 -15,-4 -79,-4 -79,-532 1281,-532 1281,252 -79,252 -79,-4"/>
+  </object>
+  <object id="4" x="288" y="320">
+   <polygon points="0,0 0,16 -16,16 -16,48 224,48 224,0 0,0"/>
+  </object>
+  <object id="5" x="448" y="480">
+   <polygon points="0,0 0,32 -16,32 -16,48 32,64 96,64 352,64 384,32 384,0"/>
+  </object>
+  <object id="6" x="736" y="336">
+   <polygon points="0,0 32,0 32,-16 256,-16 256,64 224,64 224,80 192,80 176,64 96,64 96,48 48,48 48,32 32,32 32,16"/>
+  </object>
+  <object id="7" x="512" y="416">
+   <polygon points="0,0 0,16 80,16 80,0 0,0"/>
+  </object>
+  <object id="8" x="640" y="320">
+   <polygon points="0,0 0,16 80,16 80,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="PlayerSpawnPoint">
+  <object id="9" x="320" y="522">
+   <point/>
+  </object>
+  <object id="10" x="964" y="532">
+   <point/>
+  </object>
+ </objectgroup>
+</map>
