@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/mainlev_build.tsx",
     "automapping.whileDrawing": false,
     "expandedProjectPaths": [
     ],
@@ -20,14 +20,14 @@
         },
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Map2PlatformSpawnPoint.tmx": {
             "expandedObjectLayers": [
-                2,
-                3
+                3,
+                2
             ],
             "scale": 0.5,
-            "selectedLayer": -1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 696,
-                "y": 482
+                "x": 680,
+                "y": 392
             }
         },
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/TileSet/Mdeivial.tsx": {
@@ -47,22 +47,22 @@
         },
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3PlatformSpawnPoint.tmx": {
             "expandedObjectLayers": [
-                4,
-                3
+                3,
+                4
             ],
             "scale": 0.33,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 645.4545454545455,
-                "y": 228.78787878787887
+                "x": 678.7878787878789,
+                "y": 390.9090909090909
             }
         },
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3Tiled.tmx": {
             "scale": 0.5,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 590,
-                "y": 524
+                "x": 680,
+                "y": 392
             }
         },
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Map3bg.tsx": {
@@ -127,8 +127,8 @@
         },
         "Map1PlatformsandSpawnPoint.tmx": {
             "expandedObjectLayers": [
-                4,
-                3
+                3,
+                4
             ],
             "scale": 0.75,
             "selectedLayer": 0,
@@ -141,8 +141,8 @@
             "scale": 0.33,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 1012.1212121212121,
-                "y": 495.45454545454544
+                "x": 1012.1212121212122,
+                "y": 493.9393939393939
             }
         },
         "TileSet/Map1TileSet.tsx": {
@@ -161,37 +161,33 @@
     "map.width": 85,
     "openFiles": [
         "Map1Tiled.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/MapTiled2.tmx",
         "TileSet/Map1TileSet.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/mainlev_build.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3Tiled.tmx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Background/Background.tsx",
         "Map1PlatformsandSpawnPoint.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/props2.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/props1.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/TileSet/mainlev_build.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Map3bg.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Terrain-and-Props-OLD.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Terrain_and_Props.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/MAPSPLATFORM.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Map2PlatformSpawnPoint.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3PlatformSpawnPoint.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/mainlev_build.tsx"
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3PlatformSpawnPoint.tmx"
     ],
     "project": "TiledMap1.tiled-project",
     "recentFiles": [
         "Map1Tiled.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/MapTiled2.tmx",
         "TileSet/Map1TileSet.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/mainlev_build.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3Tiled.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Background/Background.tsx",
-        "Map1PlatformsandSpawnPoint.tmx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/props2.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/forest-nature-fantasy-tileset-free/Fantasy Swamp Forest/Free/props1.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/TileSet/mainlev_build.tsx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3PlatformSpawnPoint.tmx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Map2PlatformSpawnPoint.tmx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/MAPSPLATFORM.tsx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Terrain_and_Props.tsx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Terrain-and-Props-OLD.tsx",
         "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Map3bg.tsx",
-        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/TileSet/Terrain-and-Props-OLD.tsx"
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/TileSet/mainlev_build.tsx",
+        "Map1PlatformsandSpawnPoint.tmx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map2/Background/Background.tsx",
+        "C:/Users/ACER/Desktop/2dFightingGame/GitHub/2dFightingGame/Fighting2DGame/res/Map3/Map3Tiled.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
